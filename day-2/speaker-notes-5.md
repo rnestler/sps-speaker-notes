@@ -5,6 +5,12 @@ fontsize: 20pt
 
 # Neil Gibbons — Demystifying Spark: A Deep Dive into Its Workings
 
+\newpage
+
+## Biography
+
+Neil Gibbons is a Backend Engineer with a passion for big data. After an MSc in Data Science, he pivoted to software engineering, focusing on distributed systems. Now pursuing another MSc, he's eager to share his experience and delve into Apache Spark's inner workings at the Swiss Python Summit.
+
 ## Abstract
 
 Python developers and data enthusiasts attending the Swiss Python Summit, this talk is for you! Apache Spark is a powerful framework often used alongside Python for big data processing. You've seen its capabilities, but what powers its impressive performance?
@@ -20,7 +26,3 @@ Troubleshoot issues more efficiently.
 Write effective Spark code that unlocks its true potential and complements your Python expertise.
 
 Whether you're a data scientist, developer, or simply curious about big data, this talk will bridge the gap between Python and Spark. Join me as we explore Spark's inner workings!
-
-## Biography
-
-Neil Gibbons is a Backend Engineer with a passion for big data. After an MSc in Data Science, he pivoted to software engineering, focusing on distributed systems. Now pursuing another MSc, he's eager to share his experience and delve into Apache Spark's inner workings at the Swiss Python Summit.

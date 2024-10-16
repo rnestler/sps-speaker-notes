@@ -15,7 +15,7 @@ fontsize: 20pt
 Throughout my studies in electrical engineering, I focused on projects with a societal impact, especially in the medical field, where I often used Python for development. After completing my master’s degree this year, I now work at the Eastern Switzerland University of Applied Sciences, where I am eager to embrace new challenges that drive social change. Motivated by the potential of technology to improve lives, I am always excited to collaborate on projects that combine innovation with purpose.
 
 
-----
+\newpage
 
 ## Abstract
 

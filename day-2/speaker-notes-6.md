@@ -5,6 +5,18 @@ fontsize: 20pt
 
 # Johannes Kolbe — More Than Pixels - Unlock your image data with Vision-Language Models
 
+\newpage
+
+## Biography
+
+Hey all 👋
+
+I'm a Data Scientist at celebrate company by day and an AI storyteller by night.
+
+After experiences in research at Fraunhofer Fokus Institute and tinkering with sensor setups for autonomous vehicles, I decided to get more hands-on and joined celebrate company, where I'm now helping our customers to design amazing products with the help of Machine Learning.
+
+I hold a Master's degree in Computer Science with a focus on cognitive systems from TU Berlin.
+
 ## Abstract
 
 Join us on two Vision-Language Adventures! 
@@ -24,13 +36,3 @@ The talk will be structured as follows:
 - 10min - Image Search with CLIP and FAISS 
 - 10min - Analysis of Captioned Images 
 -  5min - Possible Applications, Closing Thoughts
-
-## Biography
-
-Hey all 👋
-
-I'm a Data Scientist at celebrate company by day and an AI storyteller by night.
-
-After experiences in research at Fraunhofer Fokus Institute and tinkering with sensor setups for autonomous vehicles, I decided to get more hands-on and joined celebrate company, where I'm now helping our customers to design amazing products with the help of Machine Learning.
-
-I hold a Master's degree in Computer Science with a focus on cognitive systems from TU Berlin.

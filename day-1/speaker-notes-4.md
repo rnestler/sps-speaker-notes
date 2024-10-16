@@ -5,6 +5,12 @@ fontsize: 20pt
 
 # Emanuele Fabbiani — The hitchhiker's guide to asyncio
 
+\newpage
+
+## Biography
+
+Engineer, researcher, entrepreneur. Emanuele earned his PhD in AI by researching time series forecasting. He was a guest researcher at EPFL Lausanne, and he's now the Head of AI at xtream. He published 8 papers in international journals, presented and organized tracks and workshops at international conferences, including AMLD Lausanne, ODSC London, WeAreDevelopers Berlin, PyData Berlin and Paris, PyCon Florence, and lectured in Italy, Switzerland, and Poland.
+
 ## Abstract
 
 asyncio is the de-facto standard for asynchronous programming in Python and enables concurrent operations without using threads or processes.
@@ -16,7 +22,3 @@ Next, we will look at Tasks, which are a higher-level abstraction built on top o
 Finally, we will also cover some more advanced topics such as Async Loops and Context Managers, and how to handle errors and cancellations in asyncio. 
 
 Whether you are new to asyncio or have experience with it, this talk will provide valuable insights and tips for leveraging its full potential. By the end of this talk, you will have a better understanding of how asyncio works, and how to use it to create efficient, high-performing Python applications.
-
-## Biography
-
-Engineer, researcher, entrepreneur. Emanuele earned his PhD in AI by researching time series forecasting. He was a guest researcher at EPFL Lausanne, and he's now the Head of AI at xtream. He published 8 papers in international journals, presented and organized tracks and workshops at international conferences, including AMLD Lausanne, ODSC London, WeAreDevelopers Berlin, PyData Berlin and Paris, PyCon Florence, and lectured in Italy, Switzerland, and Poland.

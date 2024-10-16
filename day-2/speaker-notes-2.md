@@ -5,6 +5,14 @@ fontsize: 20pt
 
 # Kevin Kleinand Francesc Martí Escofet — Learning From Experiments With Causal Machine Learning
 
+\newpage
+
+## Biography
+
+Kevin is a Data Scientist at QuantCo, where he's been working with insurances on fraud detection, risk modelling and policy learning. In the past two years he's gotten into the field of Causal Inference. Prior to joining QuantCo, he majored in Computer Science at ETH in Zurich - focusing on Theoretical Computer Science and Machine Learning. He's passionate about Open Source and is the organizer of the PyData Zurich meetup.
+
+Francesc is a MSc Data Science student at ETH Zürich. Before that, he graduated in Maths & CS at the Polytechnic University of Catalonia (UPC) with a year abroad at Columbia University. He joined QuantCo as an intern in February 2024 to work on causal inference and its applications to insurance and fraud detection.
+
 ## Abstract
 
 While we have witnessed spectacular advancements in Machine Learning over the past months and years, robustness of results and establishment of causal relations remain lacking. During this talk we will walk you through an example of using causal Machine Learning techniques to estimate causal, heterogeneous treatment effects with Open Source Python tooling.
@@ -25,9 +33,3 @@ Requirements:
 - Fundamental knowledge about Python
 
 After this session, a participant can expect to have an idea as to what causal, heterogeneous treatment effect estimation is about and how to approach it in Python.
-
-## Biography
-
-Kevin is a Data Scientist at QuantCo, where he's been working with insurances on fraud detection, risk modelling and policy learning. In the past two years he's gotten into the field of Causal Inference. Prior to joining QuantCo, he majored in Computer Science at ETH in Zurich - focusing on Theoretical Computer Science and Machine Learning. He's passionate about Open Source and is the organizer of the PyData Zurich meetup.
-
-Francesc is a MSc Data Science student at ETH Zürich. Before that, he graduated in Maths & CS at the Polytechnic University of Catalonia (UPC) with a year abroad at Columbia University. He joined QuantCo as an intern in February 2024 to work on causal inference and its applications to insurance and fraud detection.

@@ -19,13 +19,15 @@ fontsize: 20pt
 
 # {speaker_names} — {title}
 
-## Abstract
-
-{abstract.replace('\r', '')}
+\\newpage
 
 ## Biography
 
-{speaker_bios}
+{speaker_bios.replace('\r', '')}
+
+## Abstract
+
+{abstract.replace('\r', '')}
 """
         file.write(content)
 

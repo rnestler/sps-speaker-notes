@@ -5,6 +5,12 @@ fontsize: 20pt
 
 # Emanuele Fabbiani — From SHAP to EBM: Explain your Gradient Boosting Models in Python
 
+\newpage
+
+## Biography
+
+Engineer, researcher, entrepreneur. Emanuele earned his PhD in AI by researching time series forecasting. He was a guest researcher at EPFL Lausanne, and he's now the Head of AI at xtream. He published 8 papers in international journals, presented and organized tracks and workshops at international conferences, including AMLD Lausanne, ODSC London, WeAreDevelopers Berlin, PyData Berlin and Paris, PyCon Florence, and lectured in Italy, Switzerland, and Poland.
+
 ## Abstract
 
 **XGBoost** is considered a state-of-the-art model for regression, classification, and learning-to-rank problems on tabular data. Unfortunately, tree-based ensemble models are notoriously **difficult to explain**, limiting their application in critical fields. Techniques like SHapley Additive exPlanations (SHAP) and Explainable Boosting Machine (EBM) have become common methods for assessing how much each feature contributes to the model prediction.
@@ -19,7 +25,3 @@ Talk outline:
 - The challenge of explainability (5 mins)
 - EBM: theory and applications (10 mins)
 - SHAP: theory and applications (10 mins)
-
-## Biography
-
-Engineer, researcher, entrepreneur. Emanuele earned his PhD in AI by researching time series forecasting. He was a guest researcher at EPFL Lausanne, and he's now the Head of AI at xtream. He published 8 papers in international journals, presented and organized tracks and workshops at international conferences, including AMLD Lausanne, ODSC London, WeAreDevelopers Berlin, PyData Berlin and Paris, PyCon Florence, and lectured in Italy, Switzerland, and Poland.
