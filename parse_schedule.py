@@ -33,7 +33,7 @@ def handle_day(path, day):
     talks = day['rooms']['Aula 4.101']
     for n, talk in enumerate(talks):
         title = talk['title']
-        if title == 'Welcome':
+        if title == 'Welcome' or title == 'Closing' or title.startswith('Lightning Talks'):
             continue
         abstract = talk['abstract']
         speaker_names = 'and '.join([p['public_name'] for p in talk['persons']])
