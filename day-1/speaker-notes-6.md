@@ -5,11 +5,18 @@ fontsize: 20pt
 
 # Vita Midori — Parallel Python at last? Subinterpreters & free-threading in practice
 
-\newpage
+ * Vita lead the development of **stock-trading plaform**, which is mostly
+   based on Python, with some C++ and Cython sprinkled in.
+ * Because of that **scaling** and **performance** optimizations became a
+   **passion** for him.
+ * So we look forward to hear about the notorious **GIL** and how Python 3.12
+   and 3.13 offer new ways of true parallelism!
 
 ## Biography
 
 I led the development of a stock-trading platform for 8 years. Some bits of C++ and Cython aside, the platform was mainly a Python-based distributed system. Scaling and performance optimisation became not just a necessity but a passion for me. I've since returned to my freelance & consulting roots, and still enjoy helping clients with tough Python problems. Strangely, I've never studied computer science and often run away from all technology into the mountains, forests, and seas of our planet.
+
+\newpage
 
 ## Abstract
 

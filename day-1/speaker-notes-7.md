@@ -5,7 +5,11 @@ fontsize: 20pt
 
 # Florian Bruhin — Property based testing with Hypothesis
 
-\newpage
+ * Florian is quite the regular at this conference, both speaking, organizing
+   and now even sponsoring!
+ * I his a long-time contributer and maintainer of pytest, also offering
+   consulting and workshops around it.
+ * He will now present hypothesis as a way tu further automate testing, enjoy!
 
 ## Biography
 
@@ -14,6 +18,8 @@ both the pytest framework and various plugins. He discovered pytest in 2015 -
 since then, he has given talks and conducted workshops about pytest at various
 conferences and companies. His primary project, qutebrowser (a keyboard-focused
 web browser), has grown from a hobby to a donation-funded part-time job.
+
+\newpage
 
 ## Abstract
 
