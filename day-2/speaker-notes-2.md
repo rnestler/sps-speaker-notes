@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Kevin Kleinand Francesc Martí Escofet — Learning From Experiments With Causal Machine Learning
 
+09:35 - 10:05
+
 \newpage
 
 ## Biography

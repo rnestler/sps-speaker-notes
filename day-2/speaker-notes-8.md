@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Isaac Chung — Prototype to Production for RAG applications
 
+15:40 - 16:10
+
 \newpage
 
 ## Biography

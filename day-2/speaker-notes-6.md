@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Johannes Kolbe — More Than Pixels - Unlock your image data with Vision-Language Models
 
+13:50 - 14:20
+
 \newpage
 
 ## Biography

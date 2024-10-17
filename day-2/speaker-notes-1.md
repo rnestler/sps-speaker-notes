@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Albert Weichselbraun — Artificial Intelligence: Why Explanations Matter
 
+09:10 - 09:30
+
 \newpage
 
 ## Biography

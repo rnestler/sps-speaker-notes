@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Pavel Sulimov — Quantum Machine Learning: Qiskit 1.X vs PennyLane 0.X
 
+10:10 - 10:40
+
 \newpage
 
 ## Biography

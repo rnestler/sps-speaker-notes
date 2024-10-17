@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Neil Gibbons — Demystifying Spark: A Deep Dive into Its Workings
 
+12:00 - 12:30
+
 \newpage
 
 ## Biography

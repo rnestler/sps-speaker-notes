@@ -5,6 +5,8 @@ fontsize: 20pt
 
 # Emanuele Fabbiani — From SHAP to EBM: Explain your Gradient Boosting Models in Python
 
+11:25 - 11:55
+
 \newpage
 
 ## Biography
