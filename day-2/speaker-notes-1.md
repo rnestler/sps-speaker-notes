@@ -7,7 +7,12 @@ fontsize: 20pt
 
 09:10 - 09:30
 
-\newpage
+ * **Albert** is a **Professor of Information Science** at the **University of
+   Applied Sciences of the Grisons** in **Chur** and **cofounder** and **Chief
+   Scientist** at **webLyzard technology**.
+ * He will talk about how **ML models are a bit like a 7 year old child** if
+   you ask them why they did something.
+ * He will talk about the importance of understanding model decisions.
 
 ## Biography
 
@@ -19,6 +24,8 @@ Before his current affiliation, he held a position as an Associate
 Professor at the Vienna University of Economics and Business and was a
 Visiting Research Fellow and Visiting Professor at the University of
 Western Australia. Albert has been the principal investigator and
+
+\newpage
 
 ## Abstract
 
