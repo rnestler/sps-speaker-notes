@@ -8,7 +8,9 @@ fontsize: 20pt
  * **Studied electrical engineering** focused on project with a **societal
    impact** where she used Python.
  * Motivated by the **potential of technology** to improve lives
- * I'm exited to her how Chantal improved shopping for **visually impaired** people
+ * Since I also often struggle to find stuff in he super market
+ * I'm exited to hear how **Chantal improved shopping** for **visually
+   impaired** people using computer vision
 
 ## Biography
 

@@ -5,11 +5,18 @@ fontsize: 20pt
 
 # Konrad Gawda — Float - Everything You Wanted to Know About
 
-\newpage
+ * Konrad describes himself as a cloud evangelist, Python trainer and programmer.
+ * He is part of the **Warsaw Python community** and likes Linux and Open Source
+ * If you ever **struggled** with **floating point numbers** behaving in weird
+   ways or encountered numbers that tell you they are **Not a Number** this
+   talk will be for you!
+
 
 ## Biography
 
 Cloud Evangelist, Python trainer and programmer (since 2008). Warsaw Python community member. Author of patents in Orange Labs. Linux and Open Source proponent.
+
+\newpage
 
 ## Abstract
 

@@ -5,11 +5,17 @@ fontsize: 20pt
 
 # Emanuele Fabbiani — The hitchhiker's guide to asyncio
 
-\newpage
+ * Emanuele earned his **PhD** in AI by researching **time series forecasting**
+ * As in the provious talk he decided not to talk about AI but joined us on the
+   first day to talk about **asyncio**
+ * We look forward to a deep dive into technical details of it and look at the
+   difference between threading, multiprocessing and async of course.
 
 ## Biography
 
 Engineer, researcher, entrepreneur. Emanuele earned his PhD in AI by researching time series forecasting. He was a guest researcher at EPFL Lausanne, and he's now the Head of AI at xtream. He published 8 papers in international journals, presented and organized tracks and workshops at international conferences, including AMLD Lausanne, ODSC London, WeAreDevelopers Berlin, PyData Berlin and Paris, PyCon Florence, and lectured in Italy, Switzerland, and Poland.
+
+\newpage
 
 ## Abstract
 

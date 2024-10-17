@@ -5,13 +5,21 @@ fontsize: 20pt
 
 # Luca Gubler — Automate your network in 5 easy steps with Python and Netmiko
 
-\newpage
+ * **Systems engineer** at **onway**. In his job he needs to **automate** a lot of things.
+ * He loves **network automation**
+ * I usually already **struggle** with **configuring my router** from my
+   internet provider, so I'm not sure if I would say the same about myself
+ * We look forward to hear about **Netmiko**, which might turn out to be a useful
+   **addition** to your **network automation toolbox**.
+
 
 ## Biography
 
 Hi, I'm Luca, a systems engineer at onway. A lot of my job revolves around automating things. I work on everything from our mobile routers, which we use to operate complete vehicle fleets in the public transport sector, to our own internal infrastructure.
 
 I love network automation. It's pretty amazing if you can set up a complete network across multiple different systems with the click of a button. Not many people know about network automation, so I'd like to show you more about it.
+
+\newpage
 
 ## Abstract
 
