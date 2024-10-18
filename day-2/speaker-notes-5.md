@@ -8,7 +8,8 @@ fontsize: 20pt
 12:00 - 12:30
 
  * Neil is a **Backend Engineer** with a passion for big data.
- * He holds a **Master of Science in Data Science** 
+ * He holds a **Master of Science in Data Science** and pursuing another.
+ * We are looking forward to hear about **Apache Spark's** inner workings!
 
 ## Biography
 

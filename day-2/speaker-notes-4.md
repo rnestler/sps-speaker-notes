@@ -11,8 +11,9 @@ fontsize: 20pt
    conference!
  * He earned his **PhD in AI**, focusing on **time series forecasting** and is now the
    Head of AI at **xtream**.
- * After showing us the details of asyncio yesterday, he will introduce **SHAP**
-   and **EBM** which help you explaining gradient boosting models.
+ * Who did hear about **SHAP** already?
+ * So we're looking forward to understand how **SHAP** and **EBM** work and how
+   they help explaining **gradient boosting models**.
 
 ## Biography
 

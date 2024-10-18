@@ -7,7 +7,9 @@ fontsize: 20pt
 
 13:50 - 14:20
 
-\newpage
+ * Johannes is a Data Scientist at celbrate company by day and an AI storyteller by night!
+ * He holds a Master's degree in Compouter Science
+
 
 ## Biography
 
@@ -18,6 +20,8 @@ I'm a Data Scientist at celebrate company by day and an AI storyteller by night.
 After experiences in research at Fraunhofer Fokus Institute and tinkering with sensor setups for autonomous vehicles, I decided to get more hands-on and joined celebrate company, where I'm now helping our customers to design amazing products with the help of Machine Learning.
 
 I hold a Master's degree in Computer Science with a focus on cognitive systems from TU Berlin.
+
+\newpage
 
 ## Abstract
 
