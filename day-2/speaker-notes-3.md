@@ -7,11 +7,17 @@ fontsize: 20pt
 
 10:10 - 10:40
 
-\newpage
+ * Pavel has a **PhD** in **Computer Science** and is currently a **Quantum Machine
+   Learning Reasercher** at **ZHAW**.
+ * I hope you already know what Machine Learning is and guess that you also
+   know what Quantum Computers. I'm curious how Pavel will show us how to use
+   Python to combine these two fields together with real-world examples; enjoy!
 
 ## Biography
 
 PhD in Computer Science. Ex-Lead Data Scientist in Gibraltar. Quantum Machine Learning Researcher at the Institute of Computer Science (ZHAW).
+
+\newpage
 
 ## Abstract
 

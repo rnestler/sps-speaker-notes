@@ -7,9 +7,10 @@ fontsize: 20pt
 
 09:35 - 10:05
 
- * Kevin is a **Data Scientist** at **QuantCo**. He's been working with
+ * Kevin is a **Data Scientist** at **QuantCo** where he's been working with
    insurances on fraud detection
  * He loves Open Source and orginzes the PyData meetup in Zurich
+ * We're lookking forward to hear about **causal Machine Learning** techniques
 
 ## Biography
 

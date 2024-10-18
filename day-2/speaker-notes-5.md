@@ -7,11 +7,14 @@ fontsize: 20pt
 
 12:00 - 12:30
 
-\newpage
+ * Neil is a **Backend Engineer** with a passion for big data.
+ * He holds a **Master of Science in Data Science** 
 
 ## Biography
 
 Neil Gibbons is a Backend Engineer with a passion for big data. After an MSc in Data Science, he pivoted to software engineering, focusing on distributed systems. Now pursuing another MSc, he's eager to share his experience and delve into Apache Spark's inner workings at the Swiss Python Summit.
+
+\newpage
 
 ## Abstract
 

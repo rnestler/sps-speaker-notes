@@ -7,11 +7,18 @@ fontsize: 20pt
 
 11:25 - 11:55
 
-\newpage
+ * It's a pleasure to welcome **Emanuele** the **second time** on stage this
+   conference!
+ * He earned his **PhD in AI**, focusing on **time series forecasting** and is now the
+   Head of AI at **xtream**.
+ * After showing us the details of asyncio yesterday, he will introduce SHAP and
+   EBM which help you explaining gradient boosting models.
 
 ## Biography
 
 Engineer, researcher, entrepreneur. Emanuele earned his PhD in AI by researching time series forecasting. He was a guest researcher at EPFL Lausanne, and he's now the Head of AI at xtream. He published 8 papers in international journals, presented and organized tracks and workshops at international conferences, including AMLD Lausanne, ODSC London, WeAreDevelopers Berlin, PyData Berlin and Paris, PyCon Florence, and lectured in Italy, Switzerland, and Poland.
+
+\newpage
 
 ## Abstract
 

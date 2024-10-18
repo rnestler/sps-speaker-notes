@@ -11,7 +11,7 @@ fontsize: 20pt
 
 ## Biography
 
-Hey all 👋
+Hey all
 
 I'm a Data Scientist at celebrate company by day and an AI storyteller by night.
 
@@ -25,7 +25,7 @@ Join us on two Vision-Language Adventures!
 
 We'll uncover the information hidden inside big image collections with Vision-Language Models (VLMs) showing us the way. Who knows which forgotten gems await us?
 
-In the first part, we'll use CLIP and FAISS to go on a treasure hunt in your photo collection. You'll learn how to filter through millions of images in a breeze, using natural language. Bye-bye endless scrolling, hour-long tagging, and frustrated folder searching 👋
+In the first part, we'll use CLIP and FAISS to go on a treasure hunt in your photo collection. You'll learn how to filter through millions of images in a breeze, using natural language. Bye-bye endless scrolling, hour-long tagging, and frustrated folder searching
 
 In the second part, we will harness the power of VLMs to help us caption images - translating pixels to words. Then we'll apply simple NLP methods like Bag-of-Words and clustering to reveal deep insights into your photo collections.
 
