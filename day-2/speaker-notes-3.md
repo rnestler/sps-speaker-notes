@@ -9,9 +9,10 @@ fontsize: 20pt
 
  * Pavel has a **PhD** in **Computer Science** and is currently a **Quantum Machine
    Learning Reasercher** at **ZHAW**.
- * I hope you already know what Machine Learning is and guess that you also
-   know what Quantum Computers. I'm curious how Pavel will show us how to use
-   Python to combine these two fields together with real-world examples; enjoy!
+ * I hope you **already know** what **Machine Learning** is and guess that you
+   also know what **Quantum Computers** are.
+ * I'm curious how Pavel will show us how to **use Python** to **combine**
+   these two fields with **real-world examples**; enjoy!
 
 ## Biography
 

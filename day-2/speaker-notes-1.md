@@ -10,7 +10,7 @@ fontsize: 20pt
  * **Albert** is a **Professor of Information Science** at the **University of
    Applied Sciences of the Grisons** in **Chur** and **cofounder** and **Chief
    Scientist** at **webLyzard technology**.
- * He will talk about how **ML models are a bit like a 7 year old child** if
+ * He will talk about how **ML models are a bit like a 3 year old child** if
    you ask them why they did something.
  * He will talk about the importance of understanding model decisions.
 
