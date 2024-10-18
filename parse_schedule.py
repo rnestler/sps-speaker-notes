@@ -45,7 +45,7 @@ def handle_day(path, day):
         duration_delta = timedelta(hours=int(hours), minutes=int(minutes))
         end = start + duration_delta
         abstract = talk['abstract']
-        speaker_names = 'and '.join([p['public_name'] for p in talk['persons']])
+        speaker_names = ' and '.join([p['public_name'] for p in talk['persons']])
         speaker_bios = '\n\n'.join([str(p['biography']) for p in talk['persons']])
         render_notes(path, n, start, end, title, abstract, speaker_names, speaker_bios)
 

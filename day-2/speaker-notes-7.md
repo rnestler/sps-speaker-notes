@@ -3,7 +3,7 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Jan Werthand Christopher Wetekamp — Even if we desperatly want to, we do not always need Deep Learning
+# Jan Werth and Christopher Wetekamp — Even if we desperatly want to, we do not always need Deep Learning
 
 14:25 - 14:55
 
