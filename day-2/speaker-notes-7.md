@@ -15,7 +15,7 @@ Dr. Jan Werth started his professional life as a carpenter. After realizing, tha
 He gained his first patented Med-Tec data-science solutions while working for Philips Research in 2014. From 2018 he focussed on AI-accelerators and switched in 2020 to AI-consulting at Eraneos. 
 Overall, he has well over 10 years of experience in DS.
 
-None
+Christopher is a Chemical Engineer at heart with a passion for data. Driven by the desire to move beyond Excel and dive into real-world problem-solving, Christopher began his coding journey during his master’s thesis and early career. His curiosity led him to rejoin the university, enrolling in a Data Science program while gaining hands-on experience in a data science company. He is now a full-time Data Scientist and loves to solve complex problems.
 
 ## Abstract
 

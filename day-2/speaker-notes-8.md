@@ -11,7 +11,7 @@ fontsize: 20pt
 
 ## Biography
 
-I am currently a Staff Data Scientist at Wrike, where I work on enabling new generative AI features in production. Previously, I led custom enterprise solution development for visual search and built multi-modal retrieval systems. I also help maintain MTEB in my spare time. My background is in Aerospace Engineering and Machine Learning and I hold undergraduate and graduate degrees from the University of Toronto.
+I am currently a Staff Data Scientist at Wrike, where I work on enabling new generative AI features in production. I also help maintain MTEB and organize PyData Tallinn in my spare time. My background is in Aerospace Engineering and Machine Learning and I hold undergraduate and graduate degrees from the University of Toronto.
 
 ## Abstract
 
