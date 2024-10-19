@@ -7,6 +7,12 @@ fontsize: 20pt
 
 15:40 - 16:10
 
+ * Staff Data Scientiest at Wrike, enabling new generative AI features in
+   production.
+ * He also helps maintaining MTEB and organizes PyData in Tallinn.
+ * He will introduce us to hallucinatioon issues from LLMs which may come in
+   handy right before the apero.
+
 \newpage
 
 ## Biography

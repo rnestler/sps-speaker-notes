@@ -7,8 +7,11 @@ fontsize: 20pt
 
 13:50 - 14:20
 
- * Johannes is a Data Scientist at celbrate company by day and an AI storyteller by night!
- * He holds a Master's degree in Compouter Science
+ * Johannes is a **Data Scientist** at **celebrate company** by day and an **AI
+   storyteller** by night!
+ * He holds a **Master's degree** in **Computer Science** with focus on
+   cognitive systems from **TU Berlin**.
+ * We look forward to join him on two Vision-Language adventures!
 
 
 ## Biography

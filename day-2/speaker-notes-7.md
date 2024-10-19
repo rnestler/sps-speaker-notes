@@ -7,6 +7,18 @@ fontsize: 20pt
 
 14:25 - 14:55
 
+ * I welcome **Jan and Christopher**
+ * Dr. Jan **started** his life as a **carpenter** but switched to **Electrical
+   engineering** after finding out that while construction work is fun, it is
+   also hard on your back. Continuing with a PhD in the signal processing group
+   he now has over 10 years of experience in DS.
+ * Christopher is **Chemical Engineer** with a **passion for data**! He
+   discovered coding during his master's thesis, which led him to **rejoin**
+   the **university** to enroll in **Data science**.
+ * They will tell us when you actually **don't need Deep Learning**, which is
+   helpful since we somtimes tend to treat everything as a **nail** if we have
+   a **shiny big hammer** in our toolset!
+
 \newpage
 
 ## Biography
