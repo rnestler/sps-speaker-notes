@@ -38,7 +38,14 @@ def handle_day(path, day):
     talks = day['rooms']['Aula 4.101']
     for n, talk in enumerate(talks):
         title = talk['title']
-        if title == 'Welcome' or title == 'Closing' or title.startswith('Lightning Talks'):
+        _type = talk["type"]
+        if (
+            _type == "Opening/Closing"
+            or _type == "Lightning Talks"
+            or title == "Welcome"
+            or title == "Closing"
+            or title.startswith("Lightning Talks")
+        ):
             continue
         start = datetime.fromisoformat(talk['date'])
         [hours, minutes] = talk['duration'].split(':')
