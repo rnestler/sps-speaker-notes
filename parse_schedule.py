@@ -4,14 +4,15 @@ import json
 import os
 from datetime import datetime, timedelta
 
-with open('schedule.json', 'r') as file:
+with open("schedule.json", "r") as file:
     data = json.load(file)
 
-days = data['schedule']['conference']['days']
+days = data["schedule"]["conference"]["days"]
+
 
 def render_notes(path, n, start, end, title, abstract, speaker_names, speaker_bios):
     filenname = f"{path}/speaker-notes-{n}.md"
-    with open(filenname, 'w') as file:
+    with open(filenname, "w") as file:
         content = f"""\
 ---
 documentclass: extarticle
@@ -34,10 +35,11 @@ fontsize: 20pt
 """
         file.write(content)
 
+
 def handle_day(path, day):
-    talks = day['rooms']['Aula 4.101']
+    talks = day["rooms"]["Aula 4.101"]
     for n, talk in enumerate(talks):
-        title = talk['title']
+        title = talk["title"]
         _type = talk["type"]
         if (
             _type == "Opening/Closing"
@@ -47,16 +49,17 @@ def handle_day(path, day):
             or title.startswith("Lightning Talks")
         ):
             continue
-        start = datetime.fromisoformat(talk['date'])
-        [hours, minutes] = talk['duration'].split(':')
+        start = datetime.fromisoformat(talk["date"])
+        [hours, minutes] = talk["duration"].split(":")
         duration_delta = timedelta(hours=int(hours), minutes=int(minutes))
         end = start + duration_delta
-        abstract = talk['abstract']
-        speaker_names = ' and '.join([p['public_name'] for p in talk['persons']])
-        speaker_bios = '\n\n'.join([str(p['biography']) for p in talk['persons']])
+        abstract = talk["abstract"]
+        speaker_names = " and ".join([p["public_name"] for p in talk["persons"]])
+        speaker_bios = "\n\n".join([str(p["biography"]) for p in talk["persons"]])
         render_notes(path, n, start, end, title, abstract, speaker_names, speaker_bios)
 
-for n,day in enumerate(days, start=1):
+
+for n, day in enumerate(days, start=1):
     path = f"day-{n}"
     os.makedirs(path, exist_ok=True)
     handle_day(path, day)
