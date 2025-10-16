@@ -19,7 +19,7 @@ fontsize: 20pt
 
 ## Biography
 
-My name is Andrii Soldatenko. I am a sr. software engineer originally from Ukraine 🇺🇦, and I am currently living in Austria 🇦🇹. Public speaker (KCD, FOSDEM, GoDays, PyCons) and OSS contributor (Apache Airflow, Golang, OpenAPI, docker). I am a big fan of debuggers, Neovim, Rust.
+My name is Andrii Soldatenko. I am a sr. software engineer originally from Ukraine, and I am currently living in Austria. Public speaker (KCD, FOSDEM, GoDays, PyCons) and OSS contributor (Apache Airflow, Golang, OpenAPI, docker). I am a big fan of debuggers, Neovim, Rust.
 
 \newpage
 
