@@ -7,11 +7,19 @@ fontsize: 20pt
 
 13:30 - 14:00
 
-\newpage
+ * Jyoti is a Cyber Security Data Scientist at Microsoft.
+ * He has experience in data science, machine learning and quite obviously
+   cyber security.
+ * Her previous work includes building models for fraud detection, market
+   forecasting and security risk assessments.
+ * In her talk she will explain how one can use agentic AI systems for
+   proactive cybersecurity.
 
 ## Biography
 
 Jyoti Yadav is a Cyber Security Data Scientist at Microsoft with extensive experience in data science, machine learning, and cybersecurity. Having worked at companies like Blockchain.com, EXL, and Lucidian, she has built advanced models for fraud detection, market forecasting, and security risk assessments. She specializes in predictive modeling, machine learning, anomaly detection, Agentic AI, and Large Language Models (LLM). Passionate about driving impactful results.
+
+\newpage
 
 ## Abstract
 

@@ -7,13 +7,22 @@ fontsize: 20pt
 
 14:05 - 14:35
 
-\newpage
+ * Dr. Piotr studied **experimental physics** in **London**.
+ * For his **PhD** he focused on using **biomaterials** to self **assemble
+   inorganic materials**, so basically **creating Cyborgs**.
+ * Recently he started focusing on **AI engineering**
+ * In his talk he will tackle the problem of **training AI models** with data
+   sets containing **personal identifiable information** by replacing it with
+   **synthetic stand-ins**, to protect the **privacy** of the humans behind the
+   data.
 
 ## Biography
 
 Dr Piotr Gryko, studied experimental physics at University College London. His PhD at Imperial College London focused on using biomaterials to self assemble inorganic materials, merging the boundaries of biological systems and machines.
 
 With 12 years of experience writing software, he now focuses on AI engineering.
+
+\newpage
 
 ## Abstract
 

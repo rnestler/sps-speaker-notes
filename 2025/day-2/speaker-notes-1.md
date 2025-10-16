@@ -7,11 +7,20 @@ fontsize: 20pt
 
 09:10 - 09:40
 
-\newpage
+ * Vita **led** the **development** of a **stock-trading platform** for 8 years
+ * It was mainly Python based with a bit of C++ and Cython sprinkled in.
+ * He never studied computer science and regularly escapes all technology into
+   the mountains, forests and seas of our world.
+ * In his talk he will introduce os to Deomokratis.ch a non-profit project to
+   improve the process for Swiss citizens to forvoide feedback on proposed laws.
+ * So if you ever struggled with understanding data in various formats inside
+   PDFs this may give you some insights in how to handle difficult data!
 
 ## Biography
 
 I led the development of a stock-trading platform for 8 years. Some bits of C++ and Cython aside, the platform was mainly a Python-based distributed system. Scaling and performance optimisation became not just a necessity but a passion for me. I've since returned to my freelance & consulting roots, and still enjoy helping clients with tough Python problems. Strangely, I've never studied computer science and often run away from all technology into the mountains, forests, and seas of our planet.
+
+\newpage
 
 ## Abstract
 

@@ -7,11 +7,18 @@ fontsize: 20pt
 
 15:50 - 16:20
 
-\newpage
+ * Kshitijaa likes to use AI, machine learning and networks to optimze complex
+   systems and make them faster and easier to understand.
+ * His talk will introduce us to several methods to analyze real-world problems
+   by using graph-based method and network analysis.
+ * In an ever more connected and networked world this will for sure come in
+   handy.
 
 ## Biography
 
 I'm Kshitijaa Jaglan, and I like using AI, Machine Learning and Networks to make complex systems (and the web) a little more optimized, fast and understandable! Currently I am transitioning from my research position at the Social Computing Group, University of Zurich, towards more applied and technical roles in industry.
+
+\newpage
 
 ## Abstract
 

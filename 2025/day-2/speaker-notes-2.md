@@ -7,11 +7,21 @@ fontsize: 20pt
 
 09:45 - 10:15
 
-\newpage
+ * As a seasoned Computer Vision and MLOps Engineer with over ten years of
+   experience, Alex leads the ML/DevOps team at Zencoder. His team delivers
+   machine learning solutions, including data pipelines, cloud infrastructure
+   and of course ML pipelines.
+ * Who has used AI agents for developing code like Curser, Windsurf, Devin or
+   similar?
+ * He will talk about AI agents and what they bring on the table for the coding
+   world! I'm looking forward on ways to improve my usage of such tools and get
+   a glimps into how the coding future may look like.
 
 ## Biography
 
 Alex Shershebnev is a seasoned Computer Vision and MLOps Engineer with over ten years of experience shaping the future of AI-driven software development. Currently, Alex leads the ML/DevOps team at Zencoder, where he leverages his extensive background in Software Engineering, ML and DevOps to deliver high-quality machine learning solutions. His work spans complex data pipelines, cloud infrastructure management (GCP, Kubernetes), and advanced ML/DevOps pipelines.
+
+\newpage
 
 ## Abstract
 

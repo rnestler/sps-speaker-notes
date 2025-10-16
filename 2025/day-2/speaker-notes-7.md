@@ -7,7 +7,12 @@ fontsize: 20pt
 
 15:15 - 15:45
 
-\newpage
+ * Sneha is a software engineer and QA specialist.
+ * Her focus is on ensuring that web, mobile and backend systems work
+   seamlessly and reliably, using tools like Playwright, Appium, WebdriverIO
+   and Postman.
+ * In the next 30 minutes we will explore how we can dynamically generate test
+   cases using ML models.
 
 ## Biography
 

@@ -7,11 +7,20 @@ fontsize: 20pt
 
 11:35 - 12:05
 
-\newpage
+ * This quite big team from IBM, including Peter, Michele, Panos and Nikos
+ * Peter manages the AI for Knowledge group
+ * Panos is an Advisory Engineer
+ * Nikos is a Senior Software Engineer
+ * And Michele didn't write anything in their Bio, but there is a profile on
+   the IBM homepage which calls him the technical lead in the AI for Knowledge
+   group.
+ * They will give us an introduction to Docling, an open-source Python package.
+   It allows to process PDFs, DOCX, etc. and bringing it in a format that is
+   easier to process by ML tools afterwards.
 
 ## Biography
 
-Currently, Peter manages the 'AI for Knowledge' group at the IBM Research - Zurich Laboratory. The group focusses on the development of Docling. 
+Currently, **Peter** manages the 'AI for Knowledge' group at the IBM Research - Zurich Laboratory. The group focusses on the development of Docling. 
 
 Peter joined the IBM Research - Zurich Laboratory in July of 2014 as a post-doctoral researcher. The Belgium-born scientist first came to IBM Research as a summer student in 2006.
 
@@ -19,13 +28,15 @@ Prior to joining IBM
 
 None
 
-Panos Vagenas is an Advisory Engineer at IBM Research, leading development efforts at the intersection of Artificial Intelligence, Information Retrieval, and Data Management.
+**Panos** Vagenas is an Advisory Engineer at IBM Research, leading development efforts at the intersection of Artificial Intelligence, Information Retrieval, and Data Management.
 
-Nikos Livathinos is a Senior Software Engineer at IBM Research, leading research and development initiatives in Computer Vision, Software Architecture, and efficient software systems.
+**Nikos** Livathinos is a Senior Software Engineer at IBM Research, leading research and development initiatives in Computer Vision, Software Architecture, and efficient software systems.
 
 With over 15 years of experience in software design and development, Nikos has worked extensively across the domains of Artificial Intelligence, Big Data, and Analytics.
 
 Nikos holds 2 Master’s degrees in Computer Science and works at the intersection of applied research and practical engineering execution.
+
+\newpage
 
 ## Abstract
 
