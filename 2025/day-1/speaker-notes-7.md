@@ -7,13 +7,18 @@ fontsize: 20pt
 
 15:15 - 15:45
 
-\newpage
+ * 
+ * Working at a Software Agency I know alot about the difficulties of
+   estimating tasks and thus look forward to learn how to improve in that
+   regard!
 
 ## Biography
 
 I've been building software for almost 2 decades. 
 I'm fascinated by elegant solutions to complex problems, finding simple, straightforward patterns in what at first glance appears to be unorganized chaos. 
 And I love to observe the human aspect of software. People, human interactions and motivations are just as much integral to software development as the focus on solid architecture that is maintainable, scalable and efficient.
+
+\newpage
 
 ## Abstract
 

@@ -7,11 +7,21 @@ fontsize: 20pt
 
 09:45 - 10:15
 
-\newpage
+ * Andrii is **Sr. software engineer**
+ * You may already know him from **KCD**, **FOSDEM**, **GoDays** and **PyCons**
+ * He is a fan of **debuggers**, **Neovim** and **Rust**
+ * Who got **frustrated** at some point in their lives **while waiting** for a
+   **code-review**? 
+ * In his talk he **may not cover** that **exact topic**, but it will for sure
+   give you **some pointers** in how to **improve code reviews** in your
+   company.
+
 
 ## Biography
 
 My name is Andrii Soldatenko. I am a sr. software engineer originally from Ukraine 🇺🇦, and I am currently living in Austria 🇦🇹. Public speaker (KCD, FOSDEM, GoDays, PyCons) and OSS contributor (Apache Airflow, Golang, OpenAPI, docker). I am a big fan of debuggers, Neovim, Rust.
+
+\newpage
 
 ## Abstract
 

@@ -7,11 +7,19 @@ fontsize: 20pt
 
 15:50 - 16:20
 
-\newpage
+ * Saransh 
+ * It's not the first time we have someone form a Space Agancy at the Summit.
+   In 2018 Carina from DLR talked about developing Software for Space.
+ * But today 
+ * Space: The final frontier! These are the Voyages of Saransh: His mission: To
+   explore strange new ways to store arrays; To seek out standards and new
+   collaborations, to boldly go where no developer has gone before!
 
 ## Biography
 
 Saransh is a "generalist" research software engineer at UCL’s Advanced Research Computing Centre (at the time of writing this proposal), where he works on Python, HPC, DevOps, and Education projects. Before UCL, he was a research fellow at CERN working on computational physics software, and he will be joining EPFL as a graduate student this fall. Moreover, he develops and maintains several open-source scientific software, which he believes are the key to collaborative and reproducible research.
+
+\newpage
 
 ## Abstract
 

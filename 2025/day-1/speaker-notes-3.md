@@ -7,11 +7,21 @@ fontsize: 20pt
 
 11:00 - 11:30
 
-\newpage
+ * Konrad calls himself a **Cloud Evangelist** and I hope he will **explain**
+   what this means ;)
+ * He also **supports Python, Linux** and **Open Source** in general
+ * Coming from **Poland** (TODO Factcheck), he is regularly seen at **Warsaw
+   Python meetup** and is recognized as an **Inland Sailer**.
+ * Who ever wondered what all the `.pyc` files in the `__pycache__` folder are?
+ * In his talk we'll **explore** what exactly happens when the **Python
+   interpreter** brings your **code to life**.
+
 
 ## Biography
 
 Python, Linux and Open Source proponent. Cloud Evangelist, Python trainer and programmer. Reportedly seen at Warsaw Python meetups since the first PyWaw meeting ever. Recognized as an Inland Sailor by the Polish Sailing Association and as an inventor by the US Patent Office.
+
+\newpage
 
 ## Abstract
 

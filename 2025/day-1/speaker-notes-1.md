@@ -7,13 +7,21 @@ fontsize: 20pt
 
 09:10 - 09:40
 
-\newpage
+ * **maintainer of scikit-learn** machine-learning library
+ * Worked on building and running **mybinder.org** and **JupyterHub**
+   * Who has used those?
+ * He already attended this conference in **2018** about **reproducible data pipelines**
+ * Now he will talk about when **approximate** is **good enough**, with a dive
+   into **probabilistic data structures** like **Bloom filters**, 
+
 
 ## Biography
 
 I am a maintainer of the scikit-learn machine-learning library. In the past I've worked on building and running mybinder.org and JupyterHub.
 
 I am employed by NVIDIA.
+
+\newpage
 
 ## Abstract
 

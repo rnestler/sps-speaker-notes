@@ -7,11 +7,21 @@ fontsize: 20pt
 
 13:30 - 14:00
 
-\newpage
+ * Edoardo originally studied **physics** and somehow **morphed** into a
+   **software engineer**
+ * He loves both coding and mountains, which is a perfect match for the Swiss
+   Python Summit!
+ * Who of you knows advent of code?
+ * Since Edoardo **enjoys puzzles** he will enlight us how to **solve Advent of
+   Code** like puzzles more **elegant** using all the **funcional programming
+   tools** that Python offers instead of ugly nested **for loops**.
+
 
 ## Biography
 
 I’m a curious and analytical mind by nature. I’m a physicist turned research software engineer who enjoys both coding and wandering in the mountains—fortunately, I live in Switzerland. Outside work, I enjoy puzzles, retro tech, and meaningful conversations. I value exploration, both physical and intellectual.
+
+\newpage
 
 ## Abstract
 

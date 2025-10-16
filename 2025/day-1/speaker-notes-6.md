@@ -7,11 +7,20 @@ fontsize: 20pt
 
 14:00 - 14:30
 
-\newpage
+ * Emeka is a **Python backend** and **AI engineer** and has worked in various
+   projects accross the **fintech**, **civic** and **energy sectors**. He often
+   worked in **challenging environments** where network reliability can't be
+   taken for granted.
+ * Since I use the **cheapest mobile provider** Switzerland has to offer, I
+   **lost** many **online chess games** while **commuting** until I knew every
+   dead zone on the S5 line. So I look forward to his talk which is about
+   building **Python Apps** for **Unreliable Networks**!
 
 ## Biography
 
 Emeka Onyebuchi is a Python backend and AI engineer with years of experience building high-impact systems for companies across the fintech, civic tech, and energy sectors. He has led the development of scalable APIs, data platforms, and infrastructure for projects ranging from payment gateways to smart grid applications, often working in challenging environments where network reliability cannot be taken for granted.
+
+\newpage
 
 ## Abstract
 
