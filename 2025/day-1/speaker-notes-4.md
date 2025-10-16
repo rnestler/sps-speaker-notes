@@ -14,7 +14,7 @@ fontsize: 20pt
  * Maybe I should talk to him regarding **my hacky Python script** that just
    uses request and some ugly loops and cryptic access to nested fields to
    parse information from my Sentry.
- * In his **talk** Daniel will explain why I wear a Rust T-Shirt ;)
+ * In his **talk** Daniel will explain why I wear a Rust T-Shirt
 
 
 ## Biography

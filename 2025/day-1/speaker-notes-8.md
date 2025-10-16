@@ -7,13 +7,15 @@ fontsize: 20pt
 
 15:50 - 16:20
 
- * Saransh 
- * It's not the first time we have someone form a Space Agancy at the Summit.
-   In 2018 Carina from DLR talked about developing Software for Space.
- * But today 
- * Space: The final frontier! These are the Voyages of Saransh: His mission: To
-   explore strange new ways to store arrays; To seek out standards and new
-   collaborations, to boldly go where no developer has gone before!
+ * Saransh describes himself as a **generalist** research software engineer. He
+   used to work at **CERN**, the **UCL Advanced Research Computing Centre** and
+   joined EPFL as a graduate student this fall.
+ * He **maintains** several **open-source scientific software packages** which
+   is a key to **collaborative** and **reproducible** research.
+ * The talk will be about **Space**: The final frontier! These are the Voyages
+   of Saransh: His mission: To explore **strange new ways** to **store
+   arrays**; To seek out **standards** and new **collaborations**, to boldly go
+   where no developer has gone before!
 
 ## Biography
 
