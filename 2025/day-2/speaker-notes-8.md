@@ -7,10 +7,10 @@ fontsize: 20pt
 
 15:50 - 16:20
 
- * Kshitijaa likes to use AI, machine learning and networks to optimze complex
-   systems and make them faster and easier to understand.
- * His talk will introduce us to several methods to analyze real-world problems
-   by using graph-based method and network analysis.
+ * Kshitijaa likes to use **AI**, **machine learning** and **networks** to
+   **optimze complex systems** and make them faster and easier to understand.
+ * His talk will introduce us to several methods to **analyze** real-world
+   problems by using **graph-based method** and **network analysis**.
  * In an ever more connected and networked world this will for sure come in
    handy.
 
@@ -29,3 +29,5 @@ Networks are all around us, shaping phenomena like epidemics, communication, and
 3. How do corporate hierarchies differ from interaction hierarchies within organizations?
 
 Throughout the talk, I will introduce key concepts in network analysis and showcase Python as a tool for research. Attendees will have access to all datasets and code, enabling them to replicate the analyses and apply these techniques to their own projects. This session is designed for Python enthusiasts with an interest in data science, networks, and/or applied research.
+
+QA: 16:15 - 16:20

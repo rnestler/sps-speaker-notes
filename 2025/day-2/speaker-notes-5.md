@@ -8,12 +8,12 @@ fontsize: 20pt
 13:30 - 14:00
 
  * Jyoti is a **Cyber Security Data Scientist** at **Microsoft**.
- * She has experience in data science, machine learning and quite obviously
-   cyber security.
- * Her previous work includes building models for fraud detection, market
-   forecasting and security risk assessments.
- * In her talk she will explain how one can use agentic AI systems for
-   proactive cybersecurity.
+ * She has experience in **data science**, **machine learning** and quite
+   obviously **cyber security**.
+ * Her previous work includes **building models** for **fraud detection**,
+   **market forecasting** and **security risk assessments**.
+ * In her talk she will explain how one can use **agentic AI systems** for
+   **proactive cybersecurity**.
 
 ## Biography
 

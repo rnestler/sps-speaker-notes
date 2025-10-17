@@ -7,20 +7,18 @@ fontsize: 20pt
 
 15:15 - 15:45
 
- * Sneha is a software engineer and QA specialist.
- * Her focus is on ensuring that web, mobile and backend systems work
-   seamlessly and reliably, using tools like Playwright, Appium, WebdriverIO
-   and Postman.
- * In the next 30 minutes we will explore how we can dynamically generate test
-   cases using ML models.
+ * Sneha is a **software engineer** and **QA specialist**.
+ * Her focus is on ensuring that **web, mobile and backend** systems work
+   seamlessly and reliably, using tools like **Playwright**, **Appium**,
+   **WebdriverIO** and **Postman**
+ * In the next 30 minutes we will explore how we can **dynamically generate
+   test cases** using ML models.
 
 ## Biography
 
 Sneha is a software engineer and QA specialist with 3 years of experience, currently working at Swiggy. She focuses on ensuring that web, mobile, and backend systems work seamlessly and reliably. She uses tools like Playwright, Appium, WebdriverIO, and Postman to find bugs early and deliver smooth user experiences at scale.
 
 Previously, she worked at CloudDefense.AI, Morgan Stanley, and Wingify, where she built a strong foundation in cloud security, software development, and testing.
-
-None
 
 ## Abstract
 
