@@ -6,7 +6,7 @@
   },
   "schedule": {
     "url": "https://talks.python-summit.ch/sps25/schedule/",
-    "version": "0.6 add Kshitijaa day 2",
+    "version": "0.8",
     "base_url": "https://talks.python-summit.ch",
     "conference": {
       "acronym": "sps25",
@@ -734,48 +734,39 @@
                 "attachments": []
               },
               {
-                "guid": "8c331f1c-d6e6-5575-8f99-d2f755c3a567",
-                "code": "9N9MV9",
-                "id": 71866,
+                "guid": "629432c8-197b-5e91-a76d-475538ad02b3",
+                "code": "PNL9LP",
+                "id": 82880,
                 "logo": null,
                 "date": "2025-10-17T15:15:00+02:00",
                 "start": "15:15",
                 "duration": "00:30",
                 "room": "Aula 4.101",
-                "slug": "sps25-71866-ai-powered-software-testing-with-multi-agent-systems",
-                "url": "https://talks.python-summit.ch/sps25/talk/9N9MV9/",
-                "title": "AI-Powered Software Testing with Multi-Agent Systems",
+                "slug": "sps25-82880-gompertz-linear-units-golu",
+                "url": "https://talks.python-summit.ch/sps25/talk/PNL9LP/",
+                "title": "Gompertz Linear Units (GoLU)",
                 "subtitle": "",
                 "track": "Day 2 - Data Science & More",
                 "type": "Talk",
                 "language": "en",
-                "abstract": "Traditional software testing struggles to keep pace with rapidly evolving applications—resulting in brittle test cases, time-consuming maintenance, and poor bug detection. This session introduces a smarter, adaptive approach using AI-powered Multi-Agent Systems that automate and continuously improve testing workflows.\r\n\r\nWe’ll explore how Multi-Agent Retrieval-Augmented Generation (RAG) transforms testing by dynamically generating test cases, adjusting to app changes in real-time, and detecting bugs with greater accuracy. Each agent has a specialized role—retrieving context, generating tests, and analyzing results—working together as a self-learning testing team.\r\n\r\nThe session will include a live walkthrough of a Python-based pipeline using PyTest, Selenium, LangChain, and ML models to:\r\n• Automate UI and regression testing with minimal manual intervention\r\n• Generate intelligent, context-aware test cases from code and API specs\r\n• Use anomaly detection to flag subtle bugs based on test logs\r\n• Continuously evolve test logic as the app evolves\r\n\r\nBy leveraging AI agents, teams can reduce manual QA efforts, improve test coverage, and increase reliability across fast-moving software projects. Whether you're a QA engineer, developer, or test automation architect, this talk will give you practical tools and ideas to build scalable, AI-driven QA systems using Python.",
+                "abstract": "Activation functions are fundamental elements of deep learning architectures as they significantly influence training dynamics. ReLU, while widely used, is prone to the dying neuron problem, which has been mitigated by variants such as LeakyReLU, PReLU, and ELU that better handle negative neuron outputs. Recently, self-gated activations like GELU and Swish have emerged as state-of-the-art alternatives, leveraging their smoothness to ensure stable gradient flow and prevent neuron inactivity.\r\n\r\nIn this work, we introduce the Gompertz Linear Unit (GoLU), a novel self-gated activation function defined as `GoLU(x) = x Gompertz(x)`, where `Gompertz(x) = exp(−exp(−x))`. The GoLU activation leverages the asymmetry in the Gompertz function to reduce variance in the latent space more effectively compared to GELU and Swish, while preserving robust gradient flow. Extensive experiments across diverse tasks, including Image Classification, Language Modeling, Semantic Segmentation, Object Detection, Instance Segmentation, and Diffusion, highlight GoLU's superior performance relative to state-of-the-art activation functions, establishing GoLU as a robust alternative to existing activation functions.",
                 "description": null,
                 "recording_license": "",
                 "do_not_record": false,
                 "persons": [
                   {
-                    "code": "39B8P7",
-                    "name": "Sneha Mavuri",
-                    "avatar": "https://talks.python-summit.ch/media/avatars/39B8P7_t6jNbIq.png",
-                    "biography": "Sneha is a software engineer and QA specialist with 3 years of experience, currently working at Swiggy. She focuses on ensuring that web, mobile, and backend systems work seamlessly and reliably. She uses tools like Playwright, Appium, WebdriverIO, and Postman to find bugs early and deliver smooth user experiences at scale.\r\n\r\nPreviously, she worked at CloudDefense.AI, Morgan Stanley, and Wingify, where she built a strong foundation in cloud security, software development, and testing.",
-                    "public_name": "Sneha Mavuri",
-                    "guid": "beaf6b3b-f6ef-57be-885c-0571ed2a17c2",
-                    "url": "https://talks.python-summit.ch/sps25/speaker/39B8P7/"
-                  },
-                  {
-                    "code": "XQMQY7",
-                    "name": "Koti Vellanki",
-                    "avatar": "https://talks.python-summit.ch/media/avatars/XQMQY7_LjsIQvb.jpg",
-                    "biography": null,
-                    "public_name": "Koti Vellanki",
-                    "guid": "3ea31c58-f270-526f-83e8-843e3aff95a6",
-                    "url": "https://talks.python-summit.ch/sps25/speaker/XQMQY7/"
+                    "code": "7K3P3C",
+                    "name": "Das\tIndrashis",
+                    "avatar": "https://talks.python-summit.ch/media/avatars/7K3P3C_1DokLAj.jpg",
+                    "biography": "Hello! I'm Indrashis Das from India. I'm a Machine Learning Engineer at AICONIX in Freiburg, Germany. I hold a Master's in Computer Science (AI specialization) from the University of Freiburg, where I also served as a Teaching Assistant in Prof. Frank Hutter's ML lab for 2.5 years and worked on GoLU as my Master's Thesis.",
+                    "public_name": "Das\tIndrashis",
+                    "guid": "fccea3c8-9551-59ab-aa3d-7393df3e15c4",
+                    "url": "https://talks.python-summit.ch/sps25/speaker/7K3P3C/"
                   }
                 ],
                 "links": [],
-                "feedback_url": "https://talks.python-summit.ch/sps25/talk/9N9MV9/feedback/",
-                "origin_url": "https://talks.python-summit.ch/sps25/talk/9N9MV9/",
+                "feedback_url": "https://talks.python-summit.ch/sps25/talk/PNL9LP/feedback/",
+                "origin_url": "https://talks.python-summit.ch/sps25/talk/PNL9LP/",
                 "attachments": []
               },
               {
