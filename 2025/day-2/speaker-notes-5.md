@@ -7,8 +7,8 @@ fontsize: 20pt
 
 13:30 - 14:00
 
- * Jyoti is a Cyber Security Data Scientist at Microsoft.
- * He has experience in data science, machine learning and quite obviously
+ * Jyoti is a **Cyber Security Data Scientist** at **Microsoft**.
+ * She has experience in data science, machine learning and quite obviously
    cyber security.
  * Her previous work includes building models for fraud detection, market
    forecasting and security risk assessments.
@@ -24,3 +24,5 @@ Jyoti Yadav is a Cyber Security Data Scientist at Microsoft with extensive exper
 ## Abstract
 
 This talk will detail how to integrate external threat intelligence data into an autonomous agentic AI system for proactive cybersecurity. Using real world datasets—including open-source threat feeds, security logs, or OSINT—you will learn how to build a data ingestion pipeline, train models with Python, and deploy agents that autonomously detect and mitigate cyber threats. This case study will provide practical insights into data preprocessing, feature engineering, and the challenges of adversarial conditions.
+
+QA: 13:55 - 14:00

@@ -8,9 +8,9 @@ fontsize: 20pt
 11:00 - 11:30
 
  * Francesco is a **Telecommunications Engineer** and thus is very familiar
-   with data analysis. The Fourier analysis tought him, that things can look
-   completely different when seens from another perspective.
- * He currently works as a Data Scientist at AgileLab.
+   with data analysis. The **Fourier analysis** tought him, that things can
+   look completely different when seens from another perspective.
+ * He currently works as a **Data Scientist** at **AgileLab**.
  * I'm looking forward to hear about how to evaluate if a **marketing
    campaign** really had an inpact or if we just wasted money on Google Ads
    that just takes parts of the traffic we'd get anyways.
@@ -20,8 +20,6 @@ fontsize: 20pt
 I’m a Telecommunications Engineer who grew up immersed in Fourier transforms (aka Francesco in Fourier-Land). Thanks to Fourier analysis, I learnt that things can look completely different when seen from another perspective. I’m particularly drawn to niche and often overlooked topics, and I like to spend my time where I can truly make a meaningful impact.
 
 I currently work as a Data Scientist at AgileLab, an amazing company that has given me the chance to work on fascinating projects.
-
-\newpage
 
 ## Abstract
 
@@ -41,3 +39,5 @@ The session will be hands-on with Python, with clear examples drawn from marketi
 
 **Take-away:**
 Participants will gain a practical understanding of how to think causally in digital marketing, learning key techniques to measure impact and target campaigns more intelligently. moving from predictive to truly prescriptive analytics.
+
+QA: 10:25 - 10:30
