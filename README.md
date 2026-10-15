@@ -16,6 +16,6 @@ Script to generate the baseline notes for my notes about the speakers of the
  * Download the `schedule.json` from pretalx and generate the initial notes:
    ```
    cd 2026
-   wget https://talks.python-summit.ch/swiss-python-summit-2026/schedule/export/schedule.json
+   curl https://talks.python-summit.ch/swiss-python-summit-2026/schedule/export/schedule.json | jq > schedule.json
    python ../parse_schedule.py
    ```
