@@ -3,20 +3,21 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Jonas Böer — Pulumi: The Joy of Infrastructure as (Python) Code
+# Federico Fregosi — Securing the Supply Chain of your Python app
 
-13:55 - 14:25
+12:10 - 12:40
 
 \newpage
 
 ## Biography
 
-Data Engineer at inovex since 2022, full-time software engineer since 2018, coder for as long as I can remember. With my experience working on data warehouses and machine learning applications from small tests up to international deployments, I enjoy eliminating bugs and bottlenecks, getting cool systems online and writing beautiful code. Still proud of the time when a colleague complained that I made deploying to production too predictable and therefore boring.
+Experienced engineering leader with a strong interest in distributed, highly scalable, and cloud-based systems.
+Operated for years in engineering leadership roles, focused on cloud-native architecture and delivery of large-scale projects on the three major public cloud providers: AWS, Azure, and GCP.  
+Regular speaker at conferences and meetups.
+Federico holds an MSc in Software Engineering from City University London
 
 ## Abstract
 
-We don't need to use Python only for developing applications and pipelines, we can also use it to maintain our infrastructure. Pulumi allows us to describe our infrastructure as a Python program. As this gives us access to Python's flexibility, readability, power, and joy, it has quickly become my favourite way to manage infrastructure, no matter if for a small team's ML application or for a multinational company's analytics platform. Let me share this joy with you!
-
-In this talk I will show you how Pulumi works and what it does better than other IaC tools: Among others, I will talk about custom resources and resource grouping, state versioning and understanding your infrastructure deployment as a program to be run.
-
-Caution: This talk may lead to strong feelings of "why haven't we always done it like this?"
+After Log4Shell and the "GitHub Actions" based attacks, the most significant security vulnerabilities of the past few years, controlling the software supply chain is top of mind for every security-conscious development team. We realize that embedding open-source libraries in our applications has substantial security risks. Still, no major software artifact can be built without OSS components these days. 
+In this session, we will use the recommendations of the most popular supply chain frameworks to explore a series of practical software development and system architecture best practices you can follow to secure your Python builds, sources, and dependencies.
+We will look at how you can protect your application from two classes of risks: internal and external. The former focuses on insider threats and compromised accounts, and the latter concentrates on open-source libraries embedded in your software projects.

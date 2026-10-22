@@ -3,20 +3,22 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Vince Nelidov — Is Your Data Lying? Bayesian Data Credibility
+#  — Pyladies presentation
 
-11:30 - 12:00
+10:50 - 10:55
 
 \newpage
 
 ## Biography
 
-Vince Nelidov is a Staff Data Scientist at Blue Yonder, with consulting experience across energy, banking, skincare, and agriculture. He combines advanced data science with business insight to create practical impact, uncover root causes, and build scalable long-term solutions. Passionate about data literacy, Vince draws on his background in statistics, research, teaching, and consulting to make data science accessible and useful.
+
 
 ## Abstract
 
-Datasets are often treated as ground truth, even though they rarely are. Labels can be noisy, measurements can be imprecise, user segments can be under-recorded, and dashboards can hide uncertainty behind clean-looking numbers. Teams then often build models, metrics, and decisions on top of data whose reliability we have never actually measured.
+A brief introduction and a few words from the Pyladies Zurich. 
 
-This talk shows how Bayesian modelling can make data credibility explicit. Using simple, realistic examples, we will model uncertainty in labels, measurements, and sampling bias; distinguish signal from noise; and identify parts of a dataset that should not be trusted at face value. The goal is to employ Bayesian statistics as a practical tool for asking: where is this dataset solid, where is it fragile, and where might it be misleading us?
+PyLadies Zurich is part of an international mentorship group for underrepresented genders in the Python community, such as but not limited to women, trans people and non-binary people. We focus on helping our members become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.
 
-Attendees will leave with a practical framework for measuring data trustworthiness, and concrete examples of how Bayesian methods can make uncertainty visible before it starts to contaminate models, dashboards, or business decisions.
+PyLadies also aims to provide a friendly support network and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
+
+Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.

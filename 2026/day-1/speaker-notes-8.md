@@ -3,26 +3,39 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Theodore Tucker — Packaging FOSS Python applications and libraries for Debian
+# Farid Mirzayev — Profiling Python: From cProfile to Sampling
 
-15:40 - 16:10
+14:30 - 15:00
 
 \newpage
 
 ## Biography
 
-Theodore is an early-career software engineer at Codethink Ltd. in Manchester, UK, where he works on the hardware-in-the-loop testing of embedded Linux-based operating systems against functional safety standards. In his spare time, he studies Combined STEM at the UK's Open University, and maintains Debian packages for Apache BuildStream and dependencies along with personal open source Python and Rust projects, FOSS computing being a hobby since the age of 7.
+By day, he works as a Python Software Developer at Ørsted, helping automate simulation workflows for power engineers. By curiosity, he enjoys exploring Python internals, performance tools, and the strange ways developers convince themselves their code is fast before measuring it.
 
 ## Abstract
 
-# Packaging FOSS Python applications and libraries for Debian
+Python developers have long faced a frustrating tradeoff: the more precisely you measured performance, the more you risked changing it.
 
-Debian Linux is deployed on millions of desktops and servers worldwide, renowned for 30 years for its stability and the quality of software packages installable from its archives. Over 1,400 volunteer contributors from around the world serve Debian users and the free software community by maintaining more than 60,000 well-behaved, consistent, secure and up-to-date packages, including Python applications and libraries.
+Traditional profilers like `profile` and `cProfile` trace every function call, providing exact call counts and instrumented timings at the cost of significant overhead.
 
-System administrators, software integrators, and scientists can be considerably more certain of the provenance, reliability, and intercompatibility of Python packages from the Debian archives than uploads to PyPi.org, especially at a time where these aspects are coming under greater scrutiny in Europe. For the Python developer, packaging your work for Debian, and therefore satisfying the stringent quality assurance criteria, is a great responsibility, but also a rewarding opportunity to gain more users in higher-integrity contexts, improve your coding practices, and engage with a community of free software experts.
+The ecosystem fought back. Tools like `py-spy` and `austin` embraced statistical sampling, attaching to running processes and gathering useful insights with minimal impact. Yet statistical sampling remained outside the Python standard library.
 
-This talk will present case studies of the "Debianisation" of a Python library (pyroaring) and application (Apache BuildStream 2.7.0) recently undertaken by the speaker in their first major FOSS contribution, covering from first principles:
-- Preparing upstream sources and Debian-specific metadata and build instructions in compliance with Debian Policy and Free Software Guidelines, both for pure Python libraries and those with Cython extensions and Sphinx documentation
-- Guiding a new package through the Debian quality assurance processes (including version control, integration testing, reproducibility, and migration) so it can be included in a release
-- Responsibilities of a Debian package maintainer to their users, upstreams, and reverse-dependencies in handling bugs and updates
-- Sources of help when contributing to a project as mature as Debian for the first time
+Python 3.15 changes that.
+
+The new `profiling.sampling` module, also known as Tachyon, brings statistical profiling into the standard library, building on years of community experimentation.
+
+In this talk, we'll compare tracing and sampling profilers, exploring how each approach works, where it struggles, and how sampled stacks become flame graphs.
+
+By profiling the same code with different tools, we'll see how each profiler reveals a different picture of performance — and why choosing the right tool matters.
+
+## Problem Statement
+
+Most Python developers reach for `cProfile` because it's built in, often without realizing its limitations or knowing modern alternatives exist. Sampling profilers have been available for years, but many developers have not encountered them. This talk closes that gap.
+
+## Attendees will leave knowing
+
+- Deterministic vs statistical profiling and why it matters
+- When `cProfile` helps — and when it can mislead
+- How and when to use Python 3.15's `profiling.sampling`
+- How to choose the right profiler for the job

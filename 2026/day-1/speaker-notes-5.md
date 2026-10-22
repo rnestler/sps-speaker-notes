@@ -3,21 +3,16 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Federico Fregosi — Securing the Supply Chain of your Python app
+# Florian Wilhelm — Sentinel Values in Python: Why None Is Not Enough
 
-12:05 - 12:35
+11:35 - 12:05
 
 \newpage
 
 ## Biography
 
-Experienced engineering leader with a strong interest in distributed, highly scalable, and cloud-based systems.
-Operated for years in engineering leadership roles, focused on cloud-native architecture and delivery of large-scale projects on the three major public cloud providers: AWS, Azure, and GCP.  
-Regular speaker at conferences and meetups.
-Federico holds an MSc in Software Engineering from City University London
+Florian is Head of Data Science & Mathematical Modeling at inovex GmbH, an IT project center driven by innovation and quality, focusing its services on ‘Digital Transformation’. He holds a PhD in mathematics, has more than 10 years of experience in predictive & prescriptive analytics use-cases and likes everything math 🤯
 
 ## Abstract
 
-After Log4Shell and the "GitHub Actions" based attacks, the most significant security vulnerabilities of the past few years, controlling the software supply chain is top of mind for every security-conscious development team. We realize that embedding open-source libraries in our applications has substantial security risks. Still, no major software artifact can be built without OSS components these days. 
-In this session, we will use the recommendations of the most popular supply chain frameworks to explore a series of practical software development and system architecture best practices you can follow to secure your Python builds, sources, and dependencies.
-We will look at how you can protect your application from two classes of risks: internal and external. The former focuses on insider threats and compromised accounts, and the latter concentrates on open-source libraries embedded in your software projects.
+Every Python developer has used `None` as a default but what happens when `None` is also a valid value? This talk explores sentinel values as a first-class concept in Python. We'll uncover why `None` is semantically overloaded, how built-in sentinels like `NotImplemented` and `...` (Ellipsis) quietly power Python's object model, and what happens when you try to create your own. The central challenge: Python's type system has no good answer for sentinel values. We'll walk through why `Optional`, `Literal`, and custom classes all fall short, look at real-world workarounds including Pydantic's experimental MISSING, and discuss what PEP 661's deferral means for your code today. You'll leave with a clear mental model and practical guidance for handling absence in typed Python.

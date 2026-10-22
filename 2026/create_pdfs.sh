@@ -13,9 +13,9 @@ done
 
 wait
 
-pdftk ./day-1/speaker-notes-[1-5].pdf cat output speaker-notes-day1-morning.pdf
-pdftk ./day-1/speaker-notes-[6-8].pdf cat output speaker-notes-day1-afternoon.pdf
+pdftk ./day-1/speaker-notes-[1-6].pdf cat output speaker-notes-day1-morning.pdf
+pdftk ./day-1/speaker-notes-[7-9].pdf cat output speaker-notes-day1-afternoon.pdf
 
-pdftk ./day-2/speaker-notes-[1-5].pdf cat output speaker-notes-day2-morning.pdf
-pdftk ./day-2/speaker-notes-[6-8].pdf cat output speaker-notes-day2-afternoon.pdf
+pdftk ./day-2/speaker-notes-[1-6].pdf cat output speaker-notes-day2-morning.pdf
+pdftk ./day-2/speaker-notes-[7-9].pdf cat output speaker-notes-day2-afternoon.pdf
 

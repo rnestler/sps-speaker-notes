@@ -3,39 +3,20 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Farid Mirzayev — Profiling Python: From cProfile to Sampling
+# Jonas Böer — Pulumi: The Joy of Infrastructure as (Python) Code
 
-14:30 - 15:00
+13:55 - 14:25
 
 \newpage
 
 ## Biography
 
-By day, he works as a Python Software Developer at Ørsted, helping automate simulation workflows for power engineers. By curiosity, he enjoys exploring Python internals, performance tools, and the strange ways developers convince themselves their code is fast before measuring it.
+Data Engineer at inovex since 2022, full-time software engineer since 2018, coder for as long as I can remember. With my experience working on data warehouses and machine learning applications from small tests up to international deployments, I enjoy eliminating bugs and bottlenecks, getting cool systems online and writing beautiful code. Still proud of the time when a colleague complained that I made deploying to production too predictable and therefore boring.
 
 ## Abstract
 
-Python developers have long faced a frustrating tradeoff: the more precisely you measured performance, the more you risked changing it.
+We don't need to use Python only for developing applications and pipelines, we can also use it to maintain our infrastructure. Pulumi allows us to describe our infrastructure as a Python program. As this gives us access to Python's flexibility, readability, power, and joy, it has quickly become my favourite way to manage infrastructure, no matter if for a small team's ML application or for a multinational company's analytics platform. Let me share this joy with you!
 
-Traditional profilers like `profile` and `cProfile` trace every function call, providing exact call counts and instrumented timings at the cost of significant overhead.
+In this talk I will show you how Pulumi works and what it does better than other IaC tools: Among others, I will talk about custom resources and resource grouping, state versioning and understanding your infrastructure deployment as a program to be run.
 
-The ecosystem fought back. Tools like `py-spy` and `austin` embraced statistical sampling, attaching to running processes and gathering useful insights with minimal impact. Yet statistical sampling remained outside the Python standard library.
-
-Python 3.15 changes that.
-
-The new `profiling.sampling` module, also known as Tachyon, brings statistical profiling into the standard library, building on years of community experimentation.
-
-In this talk, we'll compare tracing and sampling profilers, exploring how each approach works, where it struggles, and how sampled stacks become flame graphs.
-
-By profiling the same code with different tools, we'll see how each profiler reveals a different picture of performance — and why choosing the right tool matters.
-
-## Problem Statement
-
-Most Python developers reach for `cProfile` because it's built in, often without realizing its limitations or knowing modern alternatives exist. Sampling profilers have been available for years, but many developers have not encountered them. This talk closes that gap.
-
-## Attendees will leave knowing
-
-- Deterministic vs statistical profiling and why it matters
-- When `cProfile` helps — and when it can mislead
-- How and when to use Python 3.15's `profiling.sampling`
-- How to choose the right profiler for the job
+Caution: This talk may lead to strong feelings of "why haven't we always done it like this?"

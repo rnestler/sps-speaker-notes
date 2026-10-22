@@ -3,16 +3,22 @@ documentclass: extarticle
 fontsize: 20pt
 ---
 
-# Florian Wilhelm — Sentinel Values in Python: Why None Is Not Enough
+#  — Pyladies presentation
 
-11:30 - 12:00
+10:50 - 10:55
 
 \newpage
 
 ## Biography
 
-Florian is Head of Data Science & Mathematical Modeling at inovex GmbH, an IT project center driven by innovation and quality, focusing its services on ‘Digital Transformation’. He holds a PhD in mathematics, has more than 10 years of experience in predictive & prescriptive analytics use-cases and likes everything math
+
 
 ## Abstract
 
-Every Python developer has used `None` as a default but what happens when `None` is also a valid value? This talk explores sentinel values as a first-class concept in Python. We'll uncover why `None` is semantically overloaded, how built-in sentinels like `NotImplemented` and `...` (Ellipsis) quietly power Python's object model, and what happens when you try to create your own. The central challenge: Python's type system has no good answer for sentinel values. We'll walk through why `Optional`, `Literal`, and custom classes all fall short, look at real-world workarounds including Pydantic's experimental MISSING, and discuss what PEP 661's deferral means for your code today. You'll leave with a clear mental model and practical guidance for handling absence in typed Python.
+A brief introduction and a few words from the Pyladies Zurich. 
+
+PyLadies Zurich is part of an international mentorship group for underrepresented genders in the Python community, such as but not limited to women, trans people and non-binary people. We focus on helping our members become active participants and leaders in the Python open-source community. Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.
+
+PyLadies also aims to provide a friendly support network and a bridge to the larger Python world. Anyone with an interest in Python is encouraged to participate!
+
+Our mission is to promote, educate and advance a diverse Python community through outreach, education, conferences, events and social gatherings.
