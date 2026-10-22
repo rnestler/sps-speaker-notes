@@ -7,6 +7,14 @@ fontsize: 20pt
 
 09:10 - 09:40
 
+ * Michal Inden: **Java-** and **Python-Enthusiast** with over **25 years of experience**
+ * Worked in various companies as developer, architect, teamlead, CTO and what not.
+ * Currently working here **at OST**, **teaching Software Engineering**
+
+ * His talk will be about the **balance** betwen **expressive code** and **performance**:
+ * Some patterns that may seems intuitve and clean may unexpected slow
+ * We look forward to a **deep dive** into how **Python data structures** work **under the hood**
+
 \newpage
 
 ## Biography

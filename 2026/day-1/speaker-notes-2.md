@@ -7,6 +7,13 @@ fontsize: 20pt
 
 09:45 - 10:15
 
+ * Christoph Gietl: A **software** and **data engeneer** for more than **10 years**.
+ * He has a background in **math**, specializing on **statistics**
+ * In the the late **2010s** he discovered his **passion for Python**
+ * As a **beer brewer** myself I love to have a **craft beer enjoyer** on stage
+ * I'm looking forward to hear about **railway-oriented programming**, which I honestly **heared for the first time**
+ * So lets see how we can **leverage** the **Python type system** to improve our Python code
+
 \newpage
 
 ## Biography

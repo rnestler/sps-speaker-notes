@@ -7,6 +7,12 @@ fontsize: 20pt
 
 10:20 - 10:50
 
+ * **Gawang Tan** is a **Software Architect** at a **manufacturing company**
+ * They specialize on builing **reliable products** and **solid DevOps** practices
+ * **Who** in the room has used **Django**?
+ * So let's see how we can, or maybe have?, make Django very **insecure** and **vulnerable**.
+ * Hopfully learning how to make Django applications more robust and secure.
+
 \newpage
 
 ## Biography
