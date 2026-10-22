@@ -11,7 +11,7 @@ fontsize: 20pt
 
 ## Biography
 
-Florian is Head of Data Science & Mathematical Modeling at inovex GmbH, an IT project center driven by innovation and quality, focusing its services on ‘Digital Transformation’. He holds a PhD in mathematics, has more than 10 years of experience in predictive & prescriptive analytics use-cases and likes everything math 🤯
+Florian is Head of Data Science & Mathematical Modeling at inovex GmbH, an IT project center driven by innovation and quality, focusing its services on ‘Digital Transformation’. He holds a PhD in mathematics, has more than 10 years of experience in predictive & prescriptive analytics use-cases and likes everything math
 
 ## Abstract
 
