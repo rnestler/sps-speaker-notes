@@ -7,6 +7,12 @@ fontsize: 20pt
 
 11:35 - 12:05
 
+ * **Florian Wilhelm** is Head of **Data Science & Mathematical Modeling** at **inovex GmbH**
+ * He has a **PhD in mathematics**, and more than **10 years** of experience in **predictive and prescriptive analytics**.
+ * Also he likes **everything math**
+ * Who has used `None` in their codebase? 
+ * So next we'll explore when `None` is not enough, looking at how to represent missing things in other ways
+
 \newpage
 
 ## Biography

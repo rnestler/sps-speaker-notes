@@ -7,6 +7,11 @@ fontsize: 20pt
 
 12:10 - 12:40
 
+ * Federico is an experienced engineering leader with interest in distributed, highly scalable systems.
+ * He worked for years in leadership-roles  delivering large projects on the major public cloud providers AWS, Azure and GCP
+ * Who has ever used an dependency which had a security issue?
+ * The talk will be about supply chain attacks. Be it in your "GitHub Actions" or your OSS library dependency
+
 \newpage
 
 ## Biography
