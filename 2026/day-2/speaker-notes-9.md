@@ -7,6 +7,9 @@ fontsize: 20pt
 
 15:40 - 16:10
 
+ * Almudena is a Co-founder of **Data for Good Madrid**, a non-profit
+   initiative
+
 \newpage
 
 ## Biography

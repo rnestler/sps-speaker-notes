@@ -7,6 +7,18 @@ fontsize: 20pt
 
 13:55 - 14:25
 
+ * Dominik is a **senior data scientist** at inovex GmbH
+ * Who has ever been to CERN in Geneva?
+ * He has a Ph.D. in **Theoretical Physics** — but apparently not everyone works
+   on **particle physics** and **proton collisions**.
+ * So this one **started academically**, researching **computational
+   neuroscience** and **earth sciences**, and then **transitioned** into
+   **tech**, focusing on **end-to-end machine learning** solutions.
+ * In his **talk** he will introduce us to **TabPFN** and **tuned trees**. If
+   you are like me, these words will mostly make you **noding approvingly**,
+   while having **no clue** what they mean. So I'm looking forward to learn
+   about them! 
+
 \newpage
 
 ## Biography
