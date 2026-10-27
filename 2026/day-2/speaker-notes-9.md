@@ -7,8 +7,19 @@ fontsize: 20pt
 
 15:40 - 16:10
 
- * Almudena is a Co-founder of **Data for Good Madrid**, a non-profit
-   initiative
+ * Almudena is a Co-founder of **Data for Good Madrid**, a **non-profit**
+   initiative that **uses data** to drive **social impact**.
+ * At the same time she works as a **Data Scientist** and **AI Governance
+   Consultant** at **TMC**.
+ * Her background in **mathematics and statistics** and experience in
+   **building and assessing AI systems** allow her to work in the
+   **intersection** of **data science**, **responsible AI** and **AI
+   governance**. 
+
+ * **Who** of you **uses online services**?
+ * The talk will be about our **digital footprint** we leave when using online
+   services with the example of **Instagram**, which luckily I stayed away from
+   so far.
 
 \newpage
 

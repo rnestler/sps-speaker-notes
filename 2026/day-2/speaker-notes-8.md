@@ -8,9 +8,11 @@ fontsize: 20pt
 14:30 - 15:00
 
  * Emmanuel is **a machine learning engineer** at **Coefficient AI**
- * They building **bespoke AI** for the **public and private** sectors
+ * They're building **bespoke AI** for the **public and private** sectors
  * Recent projects were about **evaluating LLMs**, auditing **Gemma 4** for emergent
    **misalignment** for example or **deepfake detection**.
+
+ * Who ever used **open weights LLMs**? I used **Kimi2.6** hosted by Infomaniak in Switzerland.
  * The talk will be about **alternatives to frontier models**: **Open weights models**
    and how we can **decide** if they are good enough for **our tasks**.
 
